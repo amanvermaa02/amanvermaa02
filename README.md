@@ -32,7 +32,7 @@
 <div/>
 
 <div> <!--- Language & Tools --->
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%92%EF%B8%8F+Languages-Tools+%E2%9A%92%EF%B8%8F" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%92%EF%B8%8F+Languages-Tools+%E2%9A%92%EF%B8%8F" alt="Typing SVG" /></a></h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" /><br>
@@ -51,7 +51,7 @@
 </div>
 
 <div align="center"> <!--- Snake --->
-  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%90%8D+My+Contributions+%F0%9F%90%8D" alt="Typing SVG" /></a></h2>
+  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%90%8D+My+Contributions+%F0%9F%90%8D" alt="Typing SVG" /></a></h2>
   <br>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanvermaa02/amanvermaa02/output/pacman-contribution-graph-dark.svg">
@@ -64,7 +64,7 @@
 </div>
 
 <div> <!--- Stats --->
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%A1+Stats+%E2%9A%A1" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9A%A1+Stats+%E2%9A%A1" alt="Typing SVG" /></a></h2>
 </br>
 <p align=center>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api?username=amanvermaa02&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Streak" /></a>
@@ -83,7 +83,7 @@
 </div>
 
 <div> <!--- Contact Me --->
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%93%9F+Contact+Me+%F0%9F%93%9F" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=435&lines=%F0%9F%93%9F+Contact+Me+%F0%9F%93%9F" alt="Typing SVG" /></a></h2>
 
 <p>
  </br>
@@ -112,3 +112,4 @@ Drop me a line whenever - whether you're stuck on something or are in the mood t
 
  </p>
  </div>
+
